@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "financeApp_Blazor_Server", "financeApp_Blazor_Server\financeApp_Blazor_Server.csproj", "{9CE4AE57-D740-4A58-9DF9-FE673E0D54EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE4AE57-D740-4A58-9DF9-FE673E0D54EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE4AE57-D740-4A58-9DF9-FE673E0D54EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE4AE57-D740-4A58-9DF9-FE673E0D54EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE4AE57-D740-4A58-9DF9-FE673E0D54EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94225763-C606-4DD7-9C39-462979DAE20F}
+	EndGlobalSection
+EndGlobal

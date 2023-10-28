@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\financeApp_Blazor_Server.props" />
+</Project>
